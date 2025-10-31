@@ -1,9 +1,11 @@
 {
+  "version": 2,
   "cleanUrls": true,
   "trailingSlash": false,
-  "rewrites": [
-    { "source": "/", "destination": "/minihippo.com/index.html" },
-    { "source": "/minihippo.com", "destination": "/minihippo.com/index.html" }
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/$", "dest": "/minihippo.com/index.html" },
+    { "src": "/minihippo\.com/?$", "dest": "/minihippo.com/index.html" }
   ]
 }
 
