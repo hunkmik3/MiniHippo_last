@@ -1,5 +1,6 @@
 # Exclude custom server so Vercel serves as static site
 server.js
+package.json
 
 # Local scripts/tools not needed on Vercel
 scripts/
