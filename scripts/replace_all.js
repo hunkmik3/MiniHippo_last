@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = path.join(__dirname, '..', 'aptiskey.com');
+const ROOT = path.join(__dirname, '..', 'minihippo.com');
 
 function walk(dir, onFile) {
   const entries = fs.readdirSync(dir, { withFileTypes: true });

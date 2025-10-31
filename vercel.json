@@ -1,10 +1,9 @@
 {
-  "framework": "static",
   "cleanUrls": true,
   "trailingSlash": false,
-  "routes": [
-    { "src": "^/$", "dest": "/index.html" },
-    { "src": "^/aptiskey\\.com/?$", "dest": "/aptiskey.com/index.html" }
+  "rewrites": [
+    { "source": "/", "destination": "/minihippo.com/index.html" },
+    { "source": "/minihippo.com", "destination": "/minihippo.com/index.html" }
   ]
 }
 
