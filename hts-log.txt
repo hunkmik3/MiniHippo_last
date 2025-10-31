@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 31 Oct 2025 15:01:55 at https://aptiskey.com/ +*.png +*.jpg +*.jpeg +*.gif +*.svg +*.mp4 +*.webm +*.js +*.css +*.html +*.woff +*.woff2
+(winhttrack -qwr5%e0C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2o0%c2%f#f -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://aptiskey.com/ -O1 "C:\clone_site\minihippo_cloning" +*.png +*.jpg +*.jpeg +*.gif +*.svg +*.mp4 +*.webm +*.js +*.css +*.html +*.woff +*.woff2 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:04:32	Error: 	"Not Found" (404) at link https://aptiskey.com/grammar_key009.html (from https://aptiskey.com/grammar_bode.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 47 seconds : 290 links scanned, 286 files written (11589295 bytes overall) [4507022 bytes received at 26988 bytes/sec], 9725175 bytes transferred using HTTP compression in 256 files, ratio 25%, 18.1 requests per connection
+(1 errors, 0 warnings, 0 messages)
