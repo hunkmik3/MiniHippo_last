@@ -5,7 +5,7 @@
   "routes": [
     { "handle": "filesystem" },
     { "src": "/$", "dest": "/minihippo.com/index.html" },
-    { "src": "/minihippo\.com/?$", "dest": "/minihippo.com/index.html" }
+    { "src": "/minihippo\\.com/?$", "dest": "/minihippo.com/index.html" }
   ]
 }
 
