@@ -1,0 +1,11 @@
+{
+  "framework": "static",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "routes": [
+    { "src": "^/$", "dest": "/index.html" },
+    { "src": "^/aptiskey\\.com/?$", "dest": "/aptiskey.com/index.html" }
+  ]
+}
+
+

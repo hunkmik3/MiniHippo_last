@@ -1,0 +1,9 @@
+# Exclude custom server so Vercel serves as static site
+server.js
+
+# Local scripts/tools not needed on Vercel
+scripts/
+hts-cache/
+pagead2.googlesyndication.com/
+
+
